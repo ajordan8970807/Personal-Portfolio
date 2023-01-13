@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# My Personal Portfolio
+
+This is the first itiration of Adrienne Jordan's portfolio. I've built this with React & CSS. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
