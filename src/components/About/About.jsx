@@ -27,11 +27,11 @@ const About = () => {
               <small>1 Year of Working Knowledge</small>
             </article>
 
-            <article className='about__card'>
+            {/* <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>3 Local Small Businesses</small>
-            </article>
+            </article> */}
 
             <article className='about__card'>
               <IoLibrarySharp className='about__icon'/>
