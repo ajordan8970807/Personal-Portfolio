@@ -31,14 +31,13 @@ const Contact = () => {
           <article className="contact-option">
             <HiOutlineMailOpen className='contact-option-icon'/>
             <h4>Email</h4>
-            <h5>adri.brown89@gmail.com</h5>
-            <a href="mailto:adri.brown89@gmail.com">Send a message</a>
+            <a href="mailto:adri.jordan89@gmail.com">Send me a message!</a>
           </article>
 
           <article className="contact-option">
             <MdAlternateEmail className='contact-option-icon' />
             <h4>LinkedIn Message</h4>
-            <a href="https://www.linkedin.com/in/adrienne-jordan389/">Send a message</a>
+            <a href="https://www.linkedin.com/in/adrienne-jordan389/">Send me a message!</a>
           </article>
         </div>
 
